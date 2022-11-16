@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Excample of Streamlit
 
-Description of the app ...
+Blah blah blah blah
 
 ## Demo App
 
