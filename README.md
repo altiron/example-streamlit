@@ -1,4 +1,4 @@
-# Exsample of Streamlit
+# Example of Streamlit
 
 Blah blah blah blah
 
